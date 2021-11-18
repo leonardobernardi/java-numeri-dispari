@@ -37,9 +37,6 @@ public class StampaNumeriDispari {
 		System.out.println("Numero di pari: " + eLength);
 		System.out.println("Somma dei numeri compresi tra 10 e 50: " + sum);
 		
-		
-		
-		
 		input.close();
 	}
 
